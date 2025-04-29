@@ -1,0 +1,5 @@
+Pandas
+numpy
+stable-baselines3
+pygame
+matplotlib
